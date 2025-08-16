@@ -50,3 +50,15 @@ This project analyzes Social Network Ads data using machine learning techniques 
 
 **Problem: "Jupyter not opening"**
 - Solution: Install with `pip install jupyter notebook`
+
+
+##  You can requirement.txt also
+# Create test environment
+python -m venv test_env
+source test_env/bin/activate
+
+# Install from your requirements.txt
+pip install -r requirements.txt
+
+# Test if your notebook works
+jupyter notebook standardization.ipynb
