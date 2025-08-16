@@ -53,6 +53,7 @@ This project analyzes Social Network Ads data using machine learning techniques 
 
 
 ##  You can requirement.txt also
+🔴 Note :  requirement.txt contain all data analysis ,and visualisation tool along  with sklearn .
 # Create test environment
 python -m venv test_env
 source test_env/bin/activate
